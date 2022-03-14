@@ -1,0 +1,1488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;window.addEventListener( 'load', function() {setTimeout( function() {f.parentNode.insertBefore(j,f);}, 2200 );} );
+})(window,document,'script','dataLayer','GTM-P2W7HS');</script>
+<!-- End Google Tag Manager -->
+
+<meta charset="UTF-8">
+
+<title>Cinematic Photographs Contain Hidden Storylines</title>
+
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/img/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/assets/img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<!-- French Site Verification -->
+<meta name="google-site-verification" content="fq_aNUM2h8CCEFz8IEoEnPvHU-7VKZDvbNg1yHqU3oQ" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+<link rel="preload" as="style" href="/assets/css/main.css?id=39e9dc00827669ce9803">
+<link rel="preload" href="/assets/fonts/foglihten-068-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/avenir-next-new/AvenirNext-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/avenir-next-new/AvenirNext-Medium.woff2" as="font" type="font/woff2" crossorigin>
+
+<meta name="robots" content="max-image-preview:standard">
+
+<link rel="stylesheet" href="/assets/css/main.css?id=39e9dc00827669ce9803" type="text/css" media="all">
+
+<link rel="preload" href="/assets/fonts/fontawesome-5.5.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/assets/fonts/fontawesome-5.5.0/css/all.min.css"></noscript>
+
+<link rel="preload" href="/assets/css/extras.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/assets/css/extras.min.css"></noscript>
+
+<!-- <script src="/assets/js/vendor/jquery.min.js" type="text/javascript" async></script> -->
+<script src="/assets/js/swiper.min.js"></script>
+
+<!--[if lt IE 9]>
+<script src="/assets/js/vendor/html5shiv.js"></script>
+<script src="/assets/js/vendor/respond.js"></script>
+<![endif]-->
+
+
+
+
+<script>
+    window.should_disable_adds = false;
+    var name = "wp-user-has-logged-in=";
+    var ca = document.cookie.split(';');
+
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) === ' ') c = c.substring(1);
+        if (c.indexOf(name) === 0 && c.substring(name.length, c.length)) {
+            window.should_disable_adds = true;
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        if(window.should_disable_adds) {
+            document.body.classList.add("adthrive-disable-all");
+        }
+    });
+</script>
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="en" href="https://mymodernmet.com/grzegorz-kurzejamski-fine-art-photography/" />
+<link rel="alternate" hreflang="x-default" href="https://mymodernmet.com/grzegorz-kurzejamski-fine-art-photography/" />
+
+<script>
+(function(w, d) {
+	w.adthrive = w.adthrive || {};
+	w.adthrive.cmd = w.adthrive.cmd || [];
+	w.adthrive.plugin = 'adthrive-ads-1.1.3';
+	w.adthrive.host = 'ads.adthrive.com';
+
+	var commitParam = (w.adthriveCLS && w.adthriveCLS.bucket !== 'prod' && w.adthriveCLS.branch) ? '&commit=' + w.adthriveCLS.branch : '';
+
+	var s = d.createElement('script');
+	s.async = true;
+	s.referrerpolicy='no-referrer-when-downgrade';
+	s.src = 'https://' + w.adthrive.host + '/sites/58acab12aa5ec91288e8b076/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + commitParam + '&cb=' + (Math.floor(Math.random() * 100) + 1);
+	var n = d.getElementsByTagName('script')[0];
+	n.parentNode.insertBefore(s, n);
+})(window, document);
+</script>
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v17.8 (Yoast SEO v17.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Polish photographer Grzegorz Kurzejamski creates captivating photographs that look movie stills with interesting narratives." />
+	<link rel="canonical" href="https://mymodernmet.com/?p=490316" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Cinematic Photographs Contain Hidden Storylines Decided on by You" />
+	<meta property="og:description" content="&quot;I want to feel the photo, not read it.&quot;" />
+	<meta property="og:url" content="https://mymodernmet.com/?p=490316" />
+	<meta property="og:site_name" content="My Modern Met" />
+	<meta property="article:publisher" content="https://www.facebook.com/mymodernmet" />
+	<meta property="article:author" content="https://www.facebook.com/margheritacoleillustration/" />
+	<meta property="article:published_time" content="2022-03-12T19:25:53+00:00" />
+	<meta property="article:modified_time" content="2022-03-11T22:03:00+00:00" />
+	<meta property="og:image" content="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-fb-thumbnail-1.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Cinematic Photographs Contain Hidden Storylines Decided on by You" />
+	<meta name="twitter:description" content="&quot;I want to feel the photo, not read it.&quot;" />
+	<meta name="twitter:creator" content="@mymodernmet" />
+	<meta name="twitter:site" content="@mymodernmet" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Margherita Cole" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="4 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://mymodernmet.com/#organization","name":"My Modern Met","url":"https://mymodernmet.com/","sameAs":["https://www.facebook.com/mymodernmet","https://www.instagram.com/mymodernmet/","https://www.linkedin.com/company/3811009?trk=tyah&amp;amp;trkInfo=clickedVertical:company,clickedEntityId:3811009,idx:2-1-2,tarId:1484473853378,tas:my modern","https://www.youtube.com/channel/UCmiC4DC-xa6rqVJeNiRWDcQ","https://www.pinterest.com/mymodernmet/","https://twitter.com/mymodernmet"],"logo":{"@type":"ImageObject","@id":"https://mymodernmet.com/#logo","inLanguage":"en-US","url":"https://mymodernmet.com/wp/wp-content/uploads/2016/12/tumblr-logo.jpg","contentUrl":"https://mymodernmet.com/wp/wp-content/uploads/2016/12/tumblr-logo.jpg","width":600,"height":600,"caption":"My Modern Met"},"image":{"@id":"https://mymodernmet.com/#logo"}},{"@type":"WebSite","@id":"https://mymodernmet.com/#website","url":"https://mymodernmet.com/","name":"My Modern Met","description":"The Big City That Celebrates Creative Ideas","publisher":{"@id":"https://mymodernmet.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mymodernmet.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://mymodernmet.com/?p=490316#primaryimage","inLanguage":"en-US","url":"https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-fb-thumbnail-1.jpg","contentUrl":"https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-fb-thumbnail-1.jpg","width":1200,"height":630,"caption":"Narrative Fine Art Photos"},{"@type":"WebPage","@id":"https://mymodernmet.com/?p=490316#webpage","url":"https://mymodernmet.com/?p=490316","name":"Cinematic Photographs Contain Hidden Storylines","isPartOf":{"@id":"https://mymodernmet.com/#website"},"primaryImageOfPage":{"@id":"https://mymodernmet.com/?p=490316#primaryimage"},"datePublished":"2022-03-12T19:25:53+00:00","dateModified":"2022-03-11T22:03:00+00:00","description":"Polish photographer Grzegorz Kurzejamski creates captivating photographs that look movie stills with interesting narratives.","breadcrumb":{"@id":"https://mymodernmet.com/?p=490316#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mymodernmet.com/?p=490316"]}]},{"@type":"BreadcrumbList","@id":"https://mymodernmet.com/?p=490316#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mymodernmet.com/"},{"@type":"ListItem","position":2,"name":"Photography","item":"https://mymodernmet.com/category/photography/"},{"@type":"ListItem","position":3,"name":"Portrait Photography","item":"https://mymodernmet.com/category/photography/portrait-photography/"},{"@type":"ListItem","position":4,"name":"Cinematic Photographs Contain Hidden Storylines Decided on by You"}]},{"@type":"Article","@id":"https://mymodernmet.com/?p=490316#article","isPartOf":{"@id":"https://mymodernmet.com/?p=490316#webpage"},"author":{"@id":"https://mymodernmet.com/#/schema/person/271794684805896bb10f19e38ce63dd8"},"headline":"Cinematic Photographs Contain Hidden Storylines Decided on by You","datePublished":"2022-03-12T19:25:53+00:00","dateModified":"2022-03-11T22:03:00+00:00","mainEntityOfPage":{"@id":"https://mymodernmet.com/?p=490316#webpage"},"wordCount":363,"publisher":{"@id":"https://mymodernmet.com/#organization"},"image":{"@id":"https://mymodernmet.com/?p=490316#primaryimage"},"thumbnailUrl":"https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7.jpg","keywords":["cinema","fine art photography","Grzegorz Kurzejamski","photography"],"articleSection":["Portrait Photography"],"inLanguage":"en-US","copyrightYear":"2022","copyrightHolder":{"@id":"https://mymodernmet.com/#organization"}},{"@type":"Person","@id":"https://mymodernmet.com/#/schema/person/271794684805896bb10f19e38ce63dd8","name":"Margherita Cole","image":{"@type":"ImageObject","@id":"https://mymodernmet.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fd166f69cf4b838206aa6138a02b7b27?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fd166f69cf4b838206aa6138a02b7b27?s=96&d=mm&r=g","caption":"Margherita Cole"},"description":"Margherita Cole is a Contributing Writer at My Modern Met and illustrator based in Southern California. She holds a BA in Art History with a minor in Studio Art from Wofford College, and an MA in Illustration: Authorial Practice from Falmouth University in the UK. When she\u2019s not writing, Margherita continues to develop her creative practice in sequential art.","sameAs":["https://margheritacole.com/","https://www.facebook.com/margheritacoleillustration/"],"url":"https://mymodernmet.com/author/margherita/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//a.omappapi.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}:root .has-pale-pink-background-color{background-color:#f78da7}:root .has-vivid-red-background-color{background-color:#cf2e2e}:root .has-luminous-vivid-orange-background-color{background-color:#ff6900}:root .has-luminous-vivid-amber-background-color{background-color:#fcb900}:root .has-light-green-cyan-background-color{background-color:#7bdcb5}:root .has-vivid-green-cyan-background-color{background-color:#00d084}:root .has-pale-cyan-blue-background-color{background-color:#8ed1fc}:root .has-vivid-cyan-blue-background-color{background-color:#0693e3}:root .has-vivid-purple-background-color{background-color:#9b51e0}:root .has-white-background-color{background-color:#fff}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-cyan-bluish-gray-background-color{background-color:#abb8c3}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-black-background-color{background-color:#000}:root .has-pale-pink-color{color:#f78da7}:root .has-vivid-red-color{color:#cf2e2e}:root .has-luminous-vivid-orange-color{color:#ff6900}:root .has-luminous-vivid-amber-color{color:#fcb900}:root .has-light-green-cyan-color{color:#7bdcb5}:root .has-vivid-green-cyan-color{color:#00d084}:root .has-pale-cyan-blue-color{color:#8ed1fc}:root .has-vivid-cyan-blue-color{color:#0693e3}:root .has-vivid-purple-color{color:#9b51e0}:root .has-white-color{color:#fff}:root .has-very-light-gray-color{color:#eee}:root .has-cyan-bluish-gray-color{color:#abb8c3}:root .has-very-dark-gray-color{color:#313131}:root .has-black-color{color:#000}:root .has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:linear-gradient(135deg,#0693e3,#9b51e0)}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:linear-gradient(135deg,#7adcb4,#00d082)}:root .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background:linear-gradient(135deg,#fcb900,#ff6900)}:root .has-luminous-vivid-orange-to-vivid-red-gradient-background{background:linear-gradient(135deg,#ff6900,#cf2e2e)}:root .has-very-light-gray-to-cyan-bluish-gray-gradient-background{background:linear-gradient(135deg,#eee,#a9b8c3)}:root .has-cool-to-warm-spectrum-gradient-background{background:linear-gradient(135deg,#4aeadc,#9778d1 20%,#cf2aba 40%,#ee2c82 60%,#fb6962 80%,#fef84c)}:root .has-blush-light-purple-gradient-background{background:linear-gradient(135deg,#ffceec,#9896f0)}:root .has-blush-bordeaux-gradient-background{background:linear-gradient(135deg,#fecda5,#fe2d2d 50%,#6b003e)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-luminous-dusk-gradient-background{background:linear-gradient(135deg,#ffcb70,#c751c0 50%,#4158d0)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-pale-ocean-gradient-background{background:linear-gradient(135deg,#fff5cb,#b6e3d4 50%,#33a7b5)}:root .has-electric-grass-gradient-background{background:linear-gradient(135deg,#caf880,#71ce7e)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-small-font-size{font-size:.8125em}.has-normal-font-size,.has-regular-font-size{font-size:1em}.has-medium-font-size{font-size:1.25em}.has-large-font-size{font-size:2.25em}.has-huge-font-size,.has-larger-font-size{font-size:2.625em}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}
+</style>
+<noscript><link rel='stylesheet' id='fallback-wpml-legacy-horizontal-list-0-css'  href='//mymodernmet.com/wp/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='all' />
+</noscript><link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='//mymodernmet.com/wp/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='print' onload='this.media="all"; this.onload=null;' />
+<noscript><link rel='stylesheet' id='fallback-wordpress-popular-posts-css-css'  href='https://mymodernmet.com/wp/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.5.0' type='text/css' media='all' />
+</noscript><link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://mymodernmet.com/wp/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.5.0' type='text/css' media='print' onload='this.media="all"; this.onload=null;' />
+<style id='xcurrent-critical-lazy-embeds-inline-css' type='text/css'>
+lite-youtube,lite-vimeo{background-color:#000;display:block;contain:content;background-position:center center;background-size:cover;position:relative}lite-youtube::after{content:"";display:block;padding-bottom:calc(100% / (16 / 9))}lite-youtube iframe{width:100%;height:100%;position:absolute;top:0;left:0}lite-youtube>.lty-playbtn{display:none}lite-vimeo{aspect-ratio:16/9}.lazy-embed,.lazy-embed--loaded{min-height:var(--mobile-height, 100px)}@media only screen and (min-width: 600px){.lazy-embed,.lazy-embed--loaded{min-height:var(--desktop-height, 100px)}}.embed-twitter-com blockquote.twitter-tweet{visibility:hidden;opacity:0}.embed-tiktok-com{min-height:743px;margin:18px 0 0}@media only screen and (min-width: 600px){.embed-tiktok-com{min-height:728px}}.embed-tiktok-com .tiktok-embed{visibility:hidden;opacity:0;margin:0}.embed-instagram-com{min-height:var(--mobile-height, 509px)}@media only screen and (min-width: 600px){.embed-instagram-com{min-height:var(--desktop-height, 663px)}}.embed-instagram-com blockquote.instagram-media{visibility:hidden;opacity:0}
+
+</style>
+<script type='text/javascript' src='https://mymodernmet.com/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":1,"sampling_rate":500,"ajax_url":"https:\/\/mymodernmet.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/mymodernmet.com\/wp-json\/wordpress-popular-posts","ID":490316,"token":"8948230d91","lang":0,"debug":0}
+</script>
+<script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.5.0' id='wpp-js-js'></script>
+<link rel="https://api.w.org/" href="https://mymodernmet.com/wp-json/" /><link rel="alternate" type="application/json" href="https://mymodernmet.com/wp-json/wp/v2/posts/490316" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mymodernmet.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mymodernmet.com/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.3" />
+<link rel='shortlink' href='https://mymodernmet.com/?p=490316' />
+<link rel="alternate" type="application/json+oembed" href="https://mymodernmet.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmymodernmet.com%2Fgrzegorz-kurzejamski-fine-art-photography%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mymodernmet.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmymodernmet.com%2Fgrzegorz-kurzejamski-fine-art-photography%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.5.2 stt:1,4,2;" />
+<script type="text/javascript">
+  window.MemberfulOptions = {
+    site: "https:\/\/mymodernmet.memberful.com",
+    memberSignedIn: false  };
+
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+    setup = function() { window.MemberfulEmbedded.setup(); };
+
+    s.addEventListener("load", setup, false);
+
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
+</script>
+        <style>
+            @-webkit-keyframes bgslide {
+                from {
+                    background-position-x: 0;
+                }
+                to {
+                    background-position-x: -200%;
+                }
+            }
+
+            @keyframes bgslide {
+                    from {
+                        background-position-x: 0;
+                    }
+                    to {
+                        background-position-x: -200%;
+                    }
+            }
+
+            .wpp-widget-placeholder {
+                margin: 0 auto;
+                width: 60px;
+                height: 3px;
+                background: #dd3737;
+                background: -webkit-gradient(linear, left top, right top, from(#dd3737), color-stop(10%, #571313), to(#dd3737));
+                background: linear-gradient(90deg, #dd3737 0%, #571313 10%, #dd3737 100%);
+                background-size: 200% auto;
+                border-radius: 3px;
+                -webkit-animation: bgslide 1s infinite linear;
+                animation: bgslide 1s infinite linear;
+            }
+        </style>
+        <link href="https://mymodernmet.com" rel="preconnect" crossorigin/><link rel="preload" as="image"href="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7.jpg" imagesrcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7-150x188.jpg 150w" imagesizes="(max-width: 750px) 100vw, 750px"/>      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://mymodernmet.com/wp");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '50f1184f-9d5b-428c-a3d9-7fca86d8f14b';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "My Modern Met";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://mymodernmet.com/wp/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.20000090-ae08-4d2f-988d-291912c8a9bf";
+oneSignal_options['promptOptions'] = { };
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://mymodernmet.com/wp/wp-content/uploads/2021/06/cropped-My-Modern-Met-Favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://mymodernmet.com/wp/wp-content/uploads/2021/06/cropped-My-Modern-Met-Favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mymodernmet.com/wp/wp-content/uploads/2021/06/cropped-My-Modern-Met-Favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://mymodernmet.com/wp/wp-content/uploads/2021/06/cropped-My-Modern-Met-Favicon-1-270x270.png" />
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+window.addEventListener( 'load', function() {setTimeout( function() {
+s.parentNode.insertBefore(t,s);}, 2600 );} );}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '438929739853889');
+fbq('track', 'PageView');
+</script>
+
+<noscript>
+<img height="1" width="1" src="https://www.facebook.com/tr?id=438929739853889&ev=PageView &noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body class="post-template-default single single-post postid-490316 single-format-standard post-grzegorz-kurzejamski-fine-art-photography">
+<div id="fb-root"></div>
+
+<input type="hidden" id="testing-url-check" value="/grzegorz-kurzejamski-fine-art-photography/">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2W7HS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="top" class="top"></div>
+
+<section class="header-ad desktop-ad">
+    </section>
+
+<style>
+    .adthrive-device-phone .adthrive-comscore {
+        margin-bottom: 10px !important;
+    }
+    .adthrive-device-desktop .adthrive-comscore, .adthrive-device-tablet .adthrive-comscore {
+        margin-bottom: 20px !important;
+    }
+</style>
+
+
+<div class="wrapper">
+
+	
+<!--Header-->
+<header class="site-header "><!-- id="navbar-main" -->
+    <div class="container">
+        <div class="row">
+
+            <!-- Static navbar -->
+            <nav id="navbar-main"  class="navbar navbar-default">
+
+                <div class="nav-container">
+
+                    <div class="navbar-header">
+
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                        </button>
+
+                        <div class="logo-area">
+                                                            <a href="https://mymodernmet.com" id="logo" class=""></a>
+                                                    </div>
+
+                    </div>
+
+                    <div id="navbar" class="navbar-collapse collapse">
+
+                        <div id="mobile-nav" class="navbar-right">
+                            <ul class="nav navbar-nav">
+
+                                <li>
+                                    <div class="search">
+                                        <form method="get" class="nav-search" action="https://mymodernmet.com">
+                                            <input type="hidden" name="lang" value="en"/>
+                                            <div class="form-group">
+                                                <input type="text" id="search-text" class="form-control" placeholder="Search" value="" name="s" />
+                                            </div>
+                                        </form>
+                                    </div>
+                                </li>
+
+                                                                    <li class="single">
+                                        <a href="/popular-posts" role="button">Popular</a>
+                                    </li>
+                                
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        Categories<span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li id="menu-item-56" class="single menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://mymodernmet.com/category/art/">Art</a></li>
+<li id="menu-item-57" class="single menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="https://mymodernmet.com/category/design/">Design</a></li>
+<li id="menu-item-40101" class="single menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-40101"><a href="https://mymodernmet.com/category/photography/">Photography</a></li>
+<li id="menu-item-77030" class="single red-highlight desktop-link-only menu-item menu-item-type-custom menu-item-object-custom menu-item-77030"><a target="_blank" rel="noopener" href="https://mymodernmet.store/">Store</a></li>
+                                        <li id="menu-item-43247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43247"><a href="https://mymodernmet.com/category/architecture/">Architecture</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="https://mymodernmet.com/category/science/">Science</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67"><a href="https://mymodernmet.com/category/technology/">Technology</a></li>
+<li id="menu-item-58838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58838"><a href="https://mymodernmet.com/category/history/">History</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="https://mymodernmet.com/category/environment/">Environment</a></li>
+<li id="menu-item-58600" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58600"><a href="https://mymodernmet.com/category/nature/">Nature</a></li>
+<li id="menu-item-80045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80045"><a href="https://mymodernmet.com/category/career/">Career</a></li>
+<li id="menu-item-98597" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98597"><a href="https://mymodernmet.com/category/resources/">Resources</a></li>
+<li id="menu-item-98598" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98598"><a href="https://mymodernmet.com/category/classes/">Classes</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a href="https://mymodernmet.com/category/diy/">DIY</a></li>
+<li id="menu-item-140381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140381"><a href="https://mymodernmet.com/category/interview/">Interview</a></li>
+<li id="menu-item-41617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41617"><a href="https://mymodernmet.com/category/travel/">Travel</a></li>
+<li id="menu-item-98607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98607"><a href="https://mymodernmet.com/category/entertainment/">Entertainment</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        About Us<span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://mymodernmet.com/about/">About</a></li>
+<li id="menu-item-53802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53802"><a href="https://mymodernmet.com/team/">Team</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://mymodernmet.com/submit-content/">Submit Content</a></li>
+<li id="menu-item-80018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80018"><a href="https://mymodernmet.com/contact/">Contact</a></li>
+<li id="menu-item-138737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138737"><a target="_blank" rel="noopener" href="https://mymodernmet.media/">Advertise</a></li>
+<li id="menu-item-80015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80015"><a href="https://mymodernmet.com/affiliate-disclosure/">Affiliate Disclosure</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://mymodernmet.com/privacy-policy/">Privacy</a></li>
+<li id="menu-item-41644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41644"><a href="https://mymodernmet.com/terms-conditions/">Terms</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="single red-highlight">
+                                    <a href="https://mymodernmet.com/my-modern-met-membership" role="button" style="color: #b80b30 !important;">Membership</a>
+                                </li>
+
+                                <li class="single red-highlight">
+                                    <a href="https://store.mymodernmet.com" target="_blank" role="button" style="color: #b80b30 !important;">Store</a>
+                                </li>
+
+                                <li class="wpml-language-picker-mobile ">
+                                    
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-touch-device wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://mymodernmet.com/grzegorz-kurzejamski-fine-art-photography/" class="wpml-ls-link">
+                                                        <img
+            class="wpml-ls-flag"
+            src="https://mymodernmet.com/wp/wp-content/uploads/flags/usa-flag.jpg"
+            alt=""
+            width=18
+            height=12
+    /><span class="wpml-ls-native">English</span></a>
+			</li></ul>
+</div>
+                                </li>
+
+                                <li class="dropdown social-items">
+
+                                    <a href="#" class="dropdown-toggle social" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        <span class="ss-icon ss-social ss-facebook"></span>
+                                        <span class="ss-icon ss-social ss-twitter"></span>
+                                        <span class="ss-icon ss-social ss-pinterest"></span>
+                                        <span class="caret"></span>
+                                    </a>
+
+                                    
+<ul class="dropdown-menu social-menu">
+
+    
+        <li class="social social-list">
+            <div class="fb-like" data-href="https://www.facebook.com/mymodernmet" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+        </li>
+        <li class="social social-list">
+            <a href="https://twitter.com/mymodernmet" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @mymodernmet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </li>
+                <li class="social social-list instagram">
+            <a href="https://www.instagram.com/mymodernmet/" class="instagram-a-tag" target="_blank" rel="noreferrer nofollow">
+                <span><i class="fa fa-instagram"></i></span> Follow            </a>
+        </li>
+
+        <li class="social social-list pinterest">
+            <a data-pin-do="buttonFollow" href="https://www.pinterest.com/mymodernmet/">Pinterest</a>
+        </li>
+
+        <li class="social social-list youtube">
+            <script src="https://apis.google.com/js/platform.js"></script>
+            <div class="g-ytsubscribe" data-channelid="UCYwwiIEeYgBr5IfPedBQF1g" data-layout="default" data-count="hidden"></div>
+        </li>
+
+        <li class="social social-list">
+            <iframe  frameborder="0" border="0" scrolling="no" allowtransparency="true" height="20" width="65" src="https://platform.tumblr.com/v2/follow_button.html?type=follow&amp;tumblelog=mymodernmet&amp;color=blue"></iframe>
+        </li>
+
+<!--                                            <li class="social social-list">-->
+<!--                                                <div class="g-follow" data-annotation="none" data-href="https://plus.google.com/118231159093825009850" data-rel="publisher"></div>-->
+<!--                                            </li>-->
+
+        <li class="social social-list feedly">
+            <a href="http://feedly.com/i/subscription/feed/http://mmm.electricpulp.com/feed/" target="blank"><img id="feedlyFollow" src="https://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png" alt="follow us in feedly" width="71" height="28"></a>
+        </li>
+
+        <li class="social social-list subscribe" style="width: auto;">
+            <a href="https://mymodernmet.com/newsletter-signup/" class="btn" style="padding-left: 10px; padding-right: 10px;"><span class="ss-icon ss-mail"></span>Subscribe</a>
+        </li>
+
+    
+</ul>
+                                </li>
+
+                                <li class="newsletter-signup">
+                                    <a href="https://mymodernmet.com/newsletter-signup/">Get Our Weekly Newsletter</a>
+                                </li>
+
+                            </ul>
+
+                        </div>
+
+                        <div id="desktop-nav" class="navbar-right">
+
+                            <ul class="nav navbar-nav">
+                                                                    <li class="dropdown popular-dropdown-parent-button">
+
+                                        <a href="#" class="dropdown-toggle popular-mobile" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular <span class="caret"></span></a>
+
+                                        <ul class="dropdown-menu full-width popular-posts-dropdown">
+                                            <div class="caret-top"></div>
+                                            <!-- TODO: Popular posts update -->
+                                                <li class="dropdown-header">Popular Posts</li>
+                                                <li class="dropdown-header button"><a href="https://mymodernmet.com/popular-posts/" class="btn btn-default">View All</a></li>
+                                            
+                                                                                                                                                    <li>
+
+                                                                                                                            <div class="image">
+                                                                    <a href="https://mymodernmet.com/bear-cubs-eating-apples/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/black-bear-cubs-eating-pile-of-apples-and-purring-large.jpg"></a>
+                                                                </div>
+                                                                                                                    <!--
+                                                                                                                                   <a href="https://mymodernmet.com/bear-cubs-eating-apples/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/black-bear-cubs-eating-pile-of-apples-and-purring-large.jpg" class="popular-image"></a>
+                                                                                                                                -->
+
+                                                            <div class="text"><a href="https://mymodernmet.com/bear-cubs-eating-apples/">The Sounds These Bear Cubs Make While Eating Apples Is Ridiculously Adorable</a></div>
+
+                                                            <div class="clear"></div>
+                                                    </li>
+                                                                                                    
+                                            
+                                                                                                                                                    <li>
+
+                                                                                                                            <div class="image">
+                                                                    <a href="https://mymodernmet.com/pet-humans-sheltering-ukraine-metro/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/loyal-pets-flee-ukraine-russia-conflict-with-owners-large.jpg"></a>
+                                                                </div>
+                                                                                                                    <!--
+                                                                                                                                   <a href="https://mymodernmet.com/pet-humans-sheltering-ukraine-metro/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/loyal-pets-flee-ukraine-russia-conflict-with-owners-large.jpg" class="popular-image"></a>
+                                                                                                                                -->
+
+                                                            <div class="text"><a href="https://mymodernmet.com/pet-humans-sheltering-ukraine-metro/">Poignant Photos of Devoted Pet Owners Sheltering in the Ukraine Metro With Their Furry Friends</a></div>
+
+                                                            <div class="clear"></div>
+                                                    </li>
+                                                                                                    
+                                            
+                                                                                                                                                    <li>
+
+                                                                                                                            <div class="image">
+                                                                    <a href="https://mymodernmet.com/japan-killing-stone-sessho-seki-split/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/sessho-seki-broken-large.jpeg"></a>
+                                                                </div>
+                                                                                                                    <!--
+                                                                                                                                   <a href="https://mymodernmet.com/japan-killing-stone-sessho-seki-split/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/sessho-seki-broken-large.jpeg" class="popular-image"></a>
+                                                                                                                                -->
+
+                                                            <div class="text"><a href="https://mymodernmet.com/japan-killing-stone-sessho-seki-split/">Japan’s Mythic “Killing Stone” Splits in Half, Potentially Releasing the Spirit of a Fox Demon</a></div>
+
+                                                            <div class="clear"></div>
+                                                    </li>
+                                                                                                    
+                                            
+                                                                                                                                                    <li>
+
+                                                                                                                            <div class="image">
+                                                                    <a href="https://mymodernmet.com/venus-of-willendorf-origins-italy/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/venus-of-willendorf-origins-italy-large-thumbnail-1-1.jpg"></a>
+                                                                </div>
+                                                                                                                    <!--
+                                                                                                                                   <a href="https://mymodernmet.com/venus-of-willendorf-origins-italy/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/venus-of-willendorf-origins-italy-large-thumbnail-1-1.jpg" class="popular-image"></a>
+                                                                                                                                -->
+
+                                                            <div class="text"><a href="https://mymodernmet.com/venus-of-willendorf-origins-italy/">Longstanding Mystery Surrounding the Origins of a 30,000-Year-Old Figurine Is Solved</a></div>
+
+                                                            <div class="clear"></div>
+                                                    </li>
+                                                                                                    
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                                                                                
+                                            
+                                            <div class="clear"></div>
+
+                                        </ul>
+                                    </li>
+                                
+                                <li class="single menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://mymodernmet.com/category/art/">Art</a></li>
+<li class="single menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="https://mymodernmet.com/category/design/">Design</a></li>
+<li class="single menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-40101"><a href="https://mymodernmet.com/category/photography/">Photography</a></li>
+<li class="single red-highlight desktop-link-only menu-item menu-item-type-custom menu-item-object-custom menu-item-77030"><a target="_blank" rel="noopener" href="https://mymodernmet.store/">Store</a></li>
+
+                                <li class="dropdown">
+
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        <span class="more-topics">More Topics <span class="caret"></span></span>
+                                        <span class="all-topics">All Topics <span class="caret"></span></span>
+                                    </a>
+
+                                    <ul class="dropdown-menu more">
+                                        <div class="caret-top"></div>
+                                        <li class="dropdown-header">More Topics</li>
+
+                                        <li class="single menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://mymodernmet.com/category/art/">Art</a></li>
+<li class="single menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="https://mymodernmet.com/category/design/">Design</a></li>
+<li class="single menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-40101"><a href="https://mymodernmet.com/category/photography/">Photography</a></li>
+<li class="single red-highlight desktop-link-only menu-item menu-item-type-custom menu-item-object-custom menu-item-77030"><a target="_blank" rel="noopener" href="https://mymodernmet.store/">Store</a></li>
+                                        <li class="nav-divider"></li>
+                                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43247"><a href="https://mymodernmet.com/category/architecture/">Architecture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="https://mymodernmet.com/category/science/">Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67"><a href="https://mymodernmet.com/category/technology/">Technology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58838"><a href="https://mymodernmet.com/category/history/">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="https://mymodernmet.com/category/environment/">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58600"><a href="https://mymodernmet.com/category/nature/">Nature</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80045"><a href="https://mymodernmet.com/category/career/">Career</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98597"><a href="https://mymodernmet.com/category/resources/">Resources</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98598"><a href="https://mymodernmet.com/category/classes/">Classes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a href="https://mymodernmet.com/category/diy/">DIY</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140381"><a href="https://mymodernmet.com/category/interview/">Interview</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41617"><a href="https://mymodernmet.com/category/travel/">Travel</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98607"><a href="https://mymodernmet.com/category/entertainment/">Entertainment</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown language-picker-dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        English <span class="caret"></span>
+                                    </a>
+
+                                    <ul class="dropdown-menu more">
+                                        <div class="caret-top"></div>
+                                        
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-touch-device wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://mymodernmet.com/grzegorz-kurzejamski-fine-art-photography/" class="wpml-ls-link">
+                                                        <img
+            class="wpml-ls-flag"
+            src="https://mymodernmet.com/wp/wp-content/uploads/flags/usa-flag.jpg"
+            alt=""
+            width=18
+            height=12
+    /><span class="wpml-ls-native">English</span></a>
+			</li></ul>
+</div>
+                                    </ul>
+                                </li>
+
+                                <li class="search-item">
+                                    <div class="search">
+                                        <form method="get" class="nav-search" action="https://mymodernmet.com">
+                                            <div class="form-group">
+                                                <input type="text" id="search-text" class="form-control" placeholder="Search" value="" name="s" />
+                                            </div>
+                                        </form>
+                                    </div>
+                                </li>
+
+                                <li class="membership-link red-highlight">
+                                    <a href="https://mymodernmet.com/my-modern-met-membership">Membership</a>
+                                </li>
+
+                                <li class="dropdown social-items" style="display: none;">
+
+                                    <a href="#" class="dropdown-toggle social" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        <span class="ss-icon ss-social ss-facebook"></span>
+                                        <span class="ss-icon ss-social ss-twitter"></span>
+                                        <span class="ss-icon ss-social ss-pinterest"></span>
+                                                                                <span class="caret"></span>
+                                    </a>
+
+                                    
+<ul class="dropdown-menu social-menu">
+
+    
+        <li class="social social-list">
+            <div class="fb-like" data-href="https://www.facebook.com/mymodernmet" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+        </li>
+        <li class="social social-list">
+            <a href="https://twitter.com/mymodernmet" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @mymodernmet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </li>
+                <li class="social social-list instagram">
+            <a href="https://www.instagram.com/mymodernmet/" class="instagram-a-tag" target="_blank" rel="noreferrer nofollow">
+                <span><i class="fa fa-instagram"></i></span> Follow            </a>
+        </li>
+
+        <li class="social social-list pinterest">
+            <a data-pin-do="buttonFollow" href="https://www.pinterest.com/mymodernmet/">Pinterest</a>
+        </li>
+
+        <li class="social social-list youtube">
+            <script src="https://apis.google.com/js/platform.js"></script>
+            <div class="g-ytsubscribe" data-channelid="UCYwwiIEeYgBr5IfPedBQF1g" data-layout="default" data-count="hidden"></div>
+        </li>
+
+        <li class="social social-list">
+            <iframe  frameborder="0" border="0" scrolling="no" allowtransparency="true" height="20" width="65" src="https://platform.tumblr.com/v2/follow_button.html?type=follow&amp;tumblelog=mymodernmet&amp;color=blue"></iframe>
+        </li>
+
+<!--                                            <li class="social social-list">-->
+<!--                                                <div class="g-follow" data-annotation="none" data-href="https://plus.google.com/118231159093825009850" data-rel="publisher"></div>-->
+<!--                                            </li>-->
+
+        <li class="social social-list feedly">
+            <a href="http://feedly.com/i/subscription/feed/http://mmm.electricpulp.com/feed/" target="blank"><img id="feedlyFollow" src="https://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png" alt="follow us in feedly" width="71" height="28"></a>
+        </li>
+
+        <li class="social social-list subscribe" style="width: auto;">
+            <a href="https://mymodernmet.com/newsletter-signup/" class="btn" style="padding-left: 10px; padding-right: 10px;"><span class="ss-icon ss-mail"></span>Subscribe</a>
+        </li>
+
+    
+</ul>
+
+                                </li>
+
+                            </ul>
+
+                        </div>
+                    </div><!--/.nav-collapse -->
+
+                </div>
+
+            </nav>
+
+        </div>
+    </div>
+</header>
+
+    <main role="main">
+
+    <input type="hidden" id="one-signal-category" value="pic">
+
+
+    <!-- Used for line separator between header and post -->
+    <section class="title-area" style=""><div class="container"><div class="row empty-row-for-posts"></div></div></section>
+
+    <!--Section - Intro-->
+    <section class="main-content container">
+
+        <div class="row article-row">
+            <div class="col-xs-12 col-md-8">
+
+            <div class="row">
+                <div class="col-xs-12 article-heading-area">
+
+                    <div class="category-label ">
+
+                        <span><a href="https://mymodernmet.com/">Home</a></span>
+
+                        <span> / </span>
+
+                                                    <span><a href="https://mymodernmet.com/category/photography/">Photography</a></span>
+                            <span> / </span>
+                        
+                                                    <span><a href="https://mymodernmet.com/category/photography/portrait-photography/">Portrait Photography</a></span>
+                        
+                    </div>
+
+                    <!-- Article Title -->
+                    <h1>Cinematic Photographs Contain Hidden Storylines Decided on by You</h1>
+
+                    <!-- Article Author -->
+                    <div class="article-author-line">
+
+                        
+                                                            By <a href="/author/margherita">Margherita Cole</a> on March 12, 2022                            
+                        
+                    </div>
+
+                    <!-- Article Sharing Options -->
+                    <div class="article-share-container">
+                        <ul>
+                            <li>
+                                <a class="facebook-share" href="#share-on-facebook" onclick="window.open(
+                                    'http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmymodernmet.com%2Fgrzegorz-kurzejamski-fine-art-photography%2F','facebook-share-dialog','width=626,height=436'
+                                ); return false;"><i class="fab fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a class="pinterest-share" href="#share-on-pinterest" onclick="window.open(
+                                    'https://pinterest.com/pin/create/bookmarklet/?url=https://mymodernmet.com/grzegorz-kurzejamski-fine-art-photography/&description=Cinematic Photographs Contain Hidden Storylines Decided on by You&media=https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-small-thumbnail-1.jpg','pinterest-share-dialog','width=626,height=436'
+                                ); return false;"><i class="fab fa-pinterest-p"></i></a>
+                            </li>
+                            <li>
+                                <a class="twitter-share" href="#share-on-twitter" onclick="window.open(
+                                    'https://twitter.com/intent/tweet?url=https://mymodernmet.com/grzegorz-kurzejamski-fine-art-photography/&text=Cinematic Photographs Contain Hidden Storylines Decided on by You&via=mymodernmet','twitter-share-dialog','width=626,height=436'
+                                ); return false;"><i class="fab fa-twitter"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="row">
+
+                <!--Main Content-->
+                <div class="section-intro col-sm-12">
+
+                    <!--Article-->
+                    <article class="first-page article ">
+                        <img class="alignnone size-full wp-image-490633" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-7-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" />
+<p>There is a nostalgic quality to <a href="https://www.instagram.com/qrzej/" target="_blank" rel="noopener">Grzegorz Kurzejamski</a>&#8216;s character-driven photographs. These cinematic compositions appear to be taken from a movie or TV show and feature a unique cast with settings to match. At least one story appears to be unfolding within these captivating compositions, and it is up to the viewer to decide what it is.</p>
+<p>An architect and artificial intelligence researcher by day, Kurzejamski has been creating art in his spare time for several years. Like his profession, he tends to approach his art form with a scientific mind. Each scene is carefully curated to resemble a real space that is inhabited by these people. The figures themselves embody different emotions which enhance the drama of the photograph. &#8220;There are many different ways to use narratives to create images and I feel that I am only beginning to touch that topic,&#8221; he tells My Modern Met.</p><div class="desktop-blog-ad desktop-ad"></div>
+<p>Oftentimes, these images star two individuals who interact with one another in some way. There is no one clear meaning in these exchanges, and it's intended for the audience to fill in the blanks. This ambiguity is intentional from Kurzejamski. &#8220;I do not try to convey any truths [in my work],&#8221; he explains. &#8220;I want to feel the photo, not read it.&#8221;</p>
+<p>Scroll down to see more of Kurzejamski's photographs and follow the artist on <a href="https://www.instagram.com/qrzej/" target="_blank" rel="noopener">Instagram</a> to keep up to date with his latest work.</p>
+<h2>Polish photographer Grzegorz Kurzejamski creates captivating photographs that look like movie stills.</h2>
+<img class="lazyload alignnone size-full wp-image-490624" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490624" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-4-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript>
+<h2>They create interesting storylines with a unique setting and characters.</h2>
+<img class="lazyload alignnone size-full wp-image-490639" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="875" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9-257x300.jpg 257w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9-150x175.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490639" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="875" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9-257x300.jpg 257w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-9-150x175.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript><img class="lazyload alignnone size-full wp-image-490621" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="750" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3-300x300.jpg 300w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3-150x150.jpg 150w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3-96x96.jpg 96w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490621" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="750" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3-300x300.jpg 300w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3-150x150.jpg 150w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-3-96x96.jpg 96w" sizes="(max-width: 750px) 100vw, 750px" /></noscript>
+<h2>At least one story appears to be unfolding within these captivating compositions, and it is up to the viewer to decide what it is.</h2>
+<img class="lazyload alignnone size-full wp-image-490615" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="557" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1-300x223.jpg 300w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1-150x111.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490615" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="557" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1-300x223.jpg 300w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-1-150x111.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript><img class="lazyload alignnone size-full wp-image-490618" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="1005" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2-224x300.jpg 224w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2-150x201.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490618" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="1005" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2-224x300.jpg 224w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-2-150x201.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript>
+<h2>This ambiguity is intentional from Kurzejamski.</h2>
+<img class="lazyload alignnone size-full wp-image-490627" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5.jpg" alt="" width="750" height="938" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490627" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5.jpg" alt="" width="750" height="938" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-5-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript><img class="lazyload alignnone size-full wp-image-490636" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="875" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8-257x300.jpg 257w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8-150x175.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490636" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="875" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8-257x300.jpg 257w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-8-150x175.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript>
+<h2>&#8220;I do not try to convey any truths [in my work],&#8221; he tells My Modern Met.</h2>
+<img class="lazyload alignnone size-full wp-image-490645" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490645" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-10-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript><img class="lazyload alignnone size-full wp-image-490630" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="876" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6-257x300.jpg 257w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6-150x175.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490630" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="876" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6-257x300.jpg 257w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-6-150x175.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript>
+<h2>&#8220;I want to feel the photo, not read it.&#8221;</h2>
+<p><img class="lazyload alignnone size-full wp-image-490651" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490651" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="938" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12-240x300.jpg 240w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-12-150x188.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript><img class="lazyload alignnone size-full wp-image-490648" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="930" data-srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11-242x300.jpg 242w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11-150x186.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img class="lazyload alignnone size-full wp-image-490648" decoding="async" src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11.jpg" alt="Narrative Photographs by Grzegorz Kurzejamski" width="750" height="930" srcset="https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11.jpg 750w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11-242x300.jpg 242w, https://mymodernmet.com/wp/wp-content/uploads/2022/02/grzegorz-kurzejamski-narrative-photos-11-150x186.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /></noscript><strong>Grzegorz Kurzejamski: <a href="https://www.instagram.com/qrzej/" target="_blank" rel="noopener">Instagram</a></strong></p>
+<h4><em>My Modern Met granted permission to feature photos by Grzegorz Kurzejamski.</em></h4>
+<h2><span style="text-decoration: underline;">Related Articles:</span></h2>
+<p><a href="https://mymodernmet.com/daguerreotype-photography/">Discover Daguerreotype Photography and How the Pioneering Process Is Still Used Today</a></p>
+<p><a href="https://mymodernmet.com/black-women-in-fantasy-photography/">25 Stunning Portraits of Black Women in Ethereal Fantastical Photography</a></p><div class="desktop-blog-ad desktop-ad"></div>
+<p><a href="https://mymodernmet.com/books-history-of-photography/">19 Awesome Books on the Long History of Photography</a></p>
+</p>                    </article>
+
+                    
+                </div>
+
+            </div>
+
+                            <footer class="row author-bio">
+                    <div class="author-image">
+                        <img alt='' decoding="async" src data-src='https://secure.gravatar.com/avatar/fd166f69cf4b838206aa6138a02b7b27?s=100&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/fd166f69cf4b838206aa6138a02b7b27?s=200&#038;d=mm&#038;r=g 2x' class='lazyload avatar avatar-100 photo' height='100' width='100' />                    </div>
+                    <div class="author-description">
+                        <h3>Margherita Cole</h3>
+                        <div class="author-description-contents">
+                            Margherita Cole is a Contributing Writer at My Modern Met and illustrator based in Southern California. She holds a BA in Art History with a minor in Studio Art from Wofford College, and an MA in Illustration: Authorial Practice from Falmouth University in the UK. When she’s not writing, Margherita continues to develop her creative practice in sequential art.                        </div>
+                        <div class="author-links">
+                            <a href="https://mymodernmet.com/author/margherita/">
+                                Read all posts from Margherita Cole                            </a>
+                        </div>
+                    </div>
+                </footer>
+            
+            <div class="row like-it-share-it">
+                <div class="col-xs-12">
+                                            Love these photographs?                    
+                    <a class="facebook-share-button" href="#share-on-facebook" onclick="window.open(
+                        'http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmymodernmet.com%2Fgrzegorz-kurzejamski-fine-art-photography%2F','facebook-share-dialog','width=626,height=436'
+                    ); return false;"><i class="fab fa-facebook-square"></i> Share</a>
+                </div>
+            </div>
+
+            <div class="row like-newsletter">
+                <div class="col-xs-12 col-sm-6 left">
+                    Like My Modern Met on Facebook
+                    
+                        <div class="fb-like" data-href="https://www.facebook.com/mymodernmet/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+
+                                    </div>
+                <div class="col-xs-12 col-sm-6 right">
+                    <a href="https://mymodernmet.com/newsletter-signup/" class="anchor-links"><span class="ss-icon ss-mail"></span> Get Our Weekly Newsletter</a>
+                </div>
+            </div>
+
+                            <div class="memberful-post-container">
+                    <div class="inner-container">
+                        <div class="membership-line-one">Become a <br>My Modern Met Member</div>
+                        <div class="membership-line-two">As a member, you'll join us in our effort to support the arts.</div>
+                        <a href="https://mymodernmet.com/my-modern-met-membership" class="become-member-button">Become a Member</a><br>
+                        <a href="https://mymodernmet.com/my-modern-met-membership" class="explore-benefits-button black-text-red-arrow">Explore member benefits</a>
+                    </div>
+                </div>
+            
+                                </div><!-- end left column -->
+                <div class="col-xs-12 col-md-1"></div>
+
+                <!--Sidebar-->
+                <aside class="sidebar col-md-3">
+
+                    <div class="share-it-side">
+                                                    Love these photographs?                                                <br />
+                        <br />
+                        <a class="facebook-share-button" href="#share-on-facebook" onclick="window.open(
+                            'http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmymodernmet.com%2Fgrzegorz-kurzejamski-fine-art-photography%2F','facebook-share-dialog','width=626,height=436'
+                        ); return false;"><i class="fab fa-facebook-square"></i> Share</a>
+                    </div>
+
+                    <!-- Blog Ad 1 -->
+                    <div class="sidebar-ad ad-1 desktop-ad"></div>
+
+                    <div class="lets-connect">
+
+    <div class="title">Let's Connect</div>
+
+    <div class="social">
+        <a href="https://www.facebook.com/mymodernmet/" target="_blank" class="ss-icon ss-social ss-facebook"></a>
+        <a href="https://twitter.com/mymodernmet/" target="_blank" class="ss-icon ss-social ss-twitter"></a>
+        <a href="https://www.instagram.com/mymodernmet/" target="_blank" class="ss-icon ss-social ss-instagram"></a>
+    </div>
+
+    <p>Receive our <a href="https://mymodernmet.com/newsletter-signup/" target="_blank" rel="noopener">Weekly Newsletter</a>.<br />
+We’re also on <a href="https://www.pinterest.com/mymodernmet/" target="_blank" rel="noopener">Pinterest</a>, <a href="http://mymodernmet.tumblr.com/" target="_blank" rel="noopener">Tumblr</a>, and <a href="https://flipboard.com/@mymodernmet" target="_blank" rel="noopener">Flipboard</a>.</p>
+<p>Want to advertise with us? Visit <a href="https://mymodernmet.media/" target="_blank" rel="noopener">My Modern Met Media</a>.</p>
+
+</div>
+
+<div class="side-subscribe">
+
+	<div class="title">Get Our Weekly Newsletter</div>
+<!--	<div class="hidden">--><!--</div>-->
+
+    <div class="gform_wrapper sidebar-form-wrapper sidebar-form-wrapper-en">
+
+        <script async data-uid="6ca2e15d92" src="https://mymodernmet.ck.page/6ca2e15d92/index.js"></script>
+
+        
+    </div>
+
+</div>
+
+                    <!-- Blog Ad 2 -->
+                    <div class="sidebar-ad ad-2 desktop-ad"></div>
+
+                    
+<div class="popular-articles">
+
+    <div class="sidebar-shop-patreon-cta-container">
+
+        
+                
+        
+                        
+            <div class="visit-our-store-container" style="background-image: url(https://mymodernmet.com/wp/wp-content/uploads/2018/02/featured-products-sidebar-background.jpg);">
+
+                <div class="sidebar-section-heading"><p>Visit Our Store</p>
+</div>
+
+                <div class="store-images">
+
+                    <a href="https://mymodernmet.store/products/cactus-embroidery-kit" target="_blank" rel="nofollow noreferrer" title="Visit Our Store">
+                        <div class="image-container">
+                            <img src="https://mymodernmet.com/wp/wp-content/uploads/2018/09/cactus-embroidery-kit-1.jpg" alt="Visit Our Store">
+                        </div>
+                        <div class="details">
+                            <div class="title">'Cactus' Embroidery Kit</div>
+                            <div class="byline">by Oh Sew Bootiful</div>
+                            <div class="price">$26.50</div>
+                        </div>
+                    </a>
+
+                </div>
+
+                <div class="store-link">
+                    <a href="https://store.mymodernmet.com/" target="_blank" rel="nofollow noreferrer" class="btn btn-primary">Shop All Products</a>
+                </div>
+
+            </div>
+        
+        
+        <div class="memberful-sidebar-main">
+            <a href="https://mymodernmet.com/my-modern-met-membership">
+                <img src="/assets/img/theme/memberful-sidebar-background.jpg" alt="">
+
+                <div class="memberful-overlay-top">
+                    <div class="membership-line-one">Become a <br class="desktop-only">My Modern Met Member</div>
+                    <div class="membership-line-two">As a member, you'll join us in our effort to support the arts.</div>
+                </div>
+
+                <div class="memberful-overlay-bottom">
+                    <div class="become-member-button">Become a Member</div>
+                                            <div class="explore-benefits-button">Explore member benefits</div>
+                                    </div>
+
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+                    <!-- Blog Ad 3 -->
+                    <div class="sidebar-ad ad-3 desktop-ad"></div>
+
+                </aside>
+            </div>
+        
+    </section>
+
+
+<div class="mobile-newsletter-signup">
+    <section id="get-newsletter-mobile" class="newsletter blog-page ">
+        <div class="newsletter-form-container">
+
+            <h3>Get Our Weekly Newsletter</h3>
+
+            <script async data-uid="bfba6c140b" src="https://mymodernmet.ck.page/bfba6c140b/index.js"></script>
+
+        </div>
+    </section>
+</div>
+
+
+    <section class="featured-articles container related">
+
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="blog-post-featured-products">
+                    
+<div class="featured-products-inner-container" style="background-image: url(https://mymodernmet.com/wp/wp-content/uploads/2018/02/featured-products-content-background-1024x364.jpg);">
+
+    <div class="container">
+        <div class="featured-products-header">
+            Featured Products            <a href="https://mymodernmet.store/" target="_blank" rel="nofollow noreferrer" class="btn btn-primary">Shop All Products</a>
+        </div>
+
+        <div class="featured-products-container">
+
+            
+                <div class="featured-product-container">
+                    <a href="https://store.mymodernmet.com/products/bird-scarf" target="_blank" class="featured-product-inner-container">
+                        <div class="image-container">
+                            <img src="https://mymodernmet.com/wp/wp-content/uploads/2019/07/Shovava-Vintage-Scarf.jpg" alt="">
+                        </div>
+                        <div class="details">
+                            <div class="title">Vintage-Inspired Bird Scarf</div>
+                            <div class="byline">by Shovava</div>
+                            <div class="price">$62.00</div>
+                        </div>
+                    </a>
+                </div>
+
+            
+                <div class="featured-product-container">
+                    <a href="https://mymodernmet.store/products/frida-kahlo-action-figure" target="_blank" class="featured-product-inner-container">
+                        <div class="image-container">
+                            <img src="https://mymodernmet.com/wp/wp-content/uploads/2018/09/Frida-Kahlo.jpg" alt="">
+                        </div>
+                        <div class="details">
+                            <div class="title">Frida Kahlo Action Figure</div>
+                            <div class="byline">by Today is Art Day</div>
+                            <div class="price">$29.99</div>
+                        </div>
+                    </a>
+                </div>
+
+            
+                <div class="featured-product-container">
+                    <a href="https://mymodernmet.store/products/big-wooden-cat-pile-game" target="_blank" class="featured-product-inner-container">
+                        <div class="image-container">
+                            <img src="https://mymodernmet.com/wp/wp-content/uploads/2018/06/Cat-Pile-Big.jpg" alt="">
+                        </div>
+                        <div class="details">
+                            <div class="title">Big Wooden Cat Pile Game</div>
+                            <div class="byline">by Comma</div>
+                            <div class="price">$39.95</div>
+                        </div>
+                    </a>
+                </div>
+
+            
+                <div class="featured-product-container">
+                    <a href="https://mymodernmet.store/products/viviva-colorsheets" target="_blank" class="featured-product-inner-container">
+                        <div class="image-container">
+                            <img src="https://mymodernmet.com/wp/wp-content/uploads/2020/05/Viviva-Watercolor-Sheets.jpg" alt="">
+                        </div>
+                        <div class="details">
+                            <div class="title">Viviva Colorsheets</div>
+                            <div class="byline">by Viviva Colorsheets</div>
+                            <div class="price">$19.95</div>
+                        </div>
+                    </a>
+                </div>
+
+            
+        </div>
+
+        <div class="featured-products-footer">
+            <a href="https://mymodernmet.store/" target="_blank" rel="nofollow noreferrer" class="btn btn-primary">Shop All Products</a>
+        </div>
+    </div>
+
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="recent-articles-title top-padded stretch-on-mobile bordered-mobile">Related Articles</h3>
+            </div>
+        </div>
+
+        <div class="row">
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/belinda-richards-pet-photography-class-academy/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/03/belinda-richards-pet-photography-course-feat-sm.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/belinda-richards-pet-photography-class-academy/">Learn To Take Professional Photos of Your Pup in This Introductory Pet Photography Class</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/belinda-richards-pet-photography-class-academy/" data-title="Learn To Take Professional Photos of Your Pup in This Introductory Pet Photography Class"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/imed-kolli-street-portraits/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/imed-kolli-street-photography-square.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/imed-kolli-street-portraits/">Photographer Takes Dignified B&#038;W Portraits of “Forgotten” People He Meets on the Street [Interview]</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/imed-kolli-street-portraits/" data-title="Photographer Takes Dignified B&#038;W Portraits of “Forgotten” People He Meets on the Street [Interview]"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/creativesoul-photography-madam-cj-walker/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/02/madame-CJ-walker-hair-styles-feat-sm.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/creativesoul-photography-madam-cj-walker/">Stunning Portraits Pays Homage to First Black Woman Millionaire With Decades of Black Hair Trends</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/creativesoul-photography-madam-cj-walker/" data-title="Stunning Portraits Pays Homage to First Black Woman Millionaire With Decades of Black Hair Trends"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/ghozali-everyday-nft-millionaire/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/01/ghozali-everyday-nft-millionaire-small.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/ghozali-everyday-nft-millionaire/">Student Becomes Overnight Millionaire After Selling Selfies as NFTs</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/ghozali-everyday-nft-millionaire/" data-title="Student Becomes Overnight Millionaire After Selling Selfies as NFTs"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/robin-brazill-kid-and-dog-photos/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/01/robyn-brazill-girl-and-dog-photography-feat-sm.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/robin-brazill-kid-and-dog-photos/">Sweet Portraits Creatively Chronicle the Inseparable Bond Between a Girl and Her Dog</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/robin-brazill-kid-and-dog-photos/" data-title="Sweet Portraits Creatively Chronicle the Inseparable Bond Between a Girl and Her Dog"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/aunty-moser-earliest-born-people-photographed/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2022/01/aunty-moser-oldest-person-photographed-thumbnail-2.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/aunty-moser-earliest-born-people-photographed/">103-Year-Old &#8220;Aunty Moser&#8221; May Have Been One of the Earliest-Born People Ever Photographed</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/aunty-moser-earliest-born-people-photographed/" data-title="103-Year-Old &#8220;Aunty Moser&#8221; May Have Been One of the Earliest-Born People Ever Photographed"></div>
+            </div>
+        </div>
+    </div>
+                    </div>
+
+    </section>
+
+
+<div class="external-posts-container container">
+    <div class="row">
+        <div class="col-xs-12">
+
+            <h3 class="recent-articles-title top-padded bordered-mobile">Sponsored Content</h3>
+
+            <section id="outbrain-container"><div class="OUTBRAIN" data-widget-id= "TF_6" data-src = "" data-ob-template="MyModernMet" ></div></section>
+
+        </div>
+    </div>
+</div>
+
+<section class="header-ad desktop-ad"></section>
+
+
+    <section class="secondary-related-posts featured-articles container related">
+
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="recent-articles-title bordered-mobile">More on My Modern Met</h3>
+            </div>
+        </div>
+
+        <div class="row">
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/elena-shumilova-childhood-portrait-photography/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/12/elena-shumilova-childhood-photos-feat-sm.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/elena-shumilova-childhood-portrait-photography/">Photographer Mom Takes Fairytale Portraits of Her Kids to Show Timeless Magic of Childhood</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/elena-shumilova-childhood-portrait-photography/" data-title="Photographer Mom Takes Fairytale Portraits of Her Kids to Show Timeless Magic of Childhood"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/tawny-chatmon-gilded-portrait-photography/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/11/tawny-chatmon-gilded-portrait-photography-small.jpeg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/tawny-chatmon-gilded-portrait-photography/">Empowering Portraits Inspired by Byzantine Art Embellished With Gold and Precious Stones</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/tawny-chatmon-gilded-portrait-photography/" data-title="Empowering Portraits Inspired by Byzantine Art Embellished With Gold and Precious Stones"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/lauren-smith-kennedy-end-of-life-pet-photos/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/11/lauren-smith-end-of-life-photo-pets-feat-sm.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/lauren-smith-kennedy-end-of-life-pet-photos/">Poignant Photos of People Saying Goodbye to Their Pets Before They Cross the &#8220;Rainbow Bridge&#8221;</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/lauren-smith-kennedy-end-of-life-pet-photos/" data-title="Poignant Photos of People Saying Goodbye to Their Pets Before They Cross the &#8220;Rainbow Bridge&#8221;"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/ibor-edosa-victor-behind-scenes-photos/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/10/ibor-edosa-victor-sneak-peek-photos-feat-sm.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/ibor-edosa-victor-behind-scenes-photos/">Photographer Shares Behind-the-Scenes Peek at How His Magical Photos Begin</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/ibor-edosa-victor-behind-scenes-photos/" data-title="Photographer Shares Behind-the-Scenes Peek at How His Magical Photos Begin"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/fares-micue-balloons/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/09/fares-micue-self-portrait-photography-balloon-images-small.jpeg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/fares-micue-balloons/">Photographer Uses Bright Balloons To Portray Deep Emotions in Striking Self-Portraits</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/fares-micue-balloons/" data-title="Photographer Uses Bright Balloons To Portray Deep Emotions in Striking Self-Portraits"></div>
+            </div>
+        </div>
+    </div>
+                                <div class="col-xs-6 col-sm-4 col-md-4 featured-col related-article-container">
+        <div class="featured-image">
+                            <a href="https://mymodernmet.com/rania-matar-she-photo-book/"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/09/rania-matar-she-square.jpg"></a>
+                    </div>
+
+        <a href="https://mymodernmet.com/rania-matar-she-photo-book/">Lebanese American Photographer Captures the Universal Experience of Womanhood [Interview]</a>
+
+        <div class="row post-meta sharing">
+            <div class="col-xs-12 share-options">
+                <div class="facebook-share share"><div class="fb-share-button" data-href="" data-layout="button"></div></div>
+                <div class="addthis_native_toolbox" data-url="https://mymodernmet.com/rania-matar-she-photo-book/" data-title="Lebanese American Photographer Captures the Universal Experience of Womanhood [Interview]"></div>
+            </div>
+        </div>
+    </div>
+                    </div>
+
+    </section>
+
+
+
+	</main>
+
+    
+        <section id="get-newsletter" class="newsletter blog-page ">
+    <div class="newsletter-form-container">
+
+        <h3>Get Our Weekly Newsletter</h3>
+
+        <script async data-uid="bfba6c140b" src="https://mymodernmet.ck.page/bfba6c140b/index.js"></script>
+
+    </div>
+</section>
+
+        <section class="site-footer-top">
+            <div class="container">
+
+				<div class="row">
+                    <div class="col-sm-12 col-md-6 col-md-offset-3">
+                        <h3>My Modern Met</h3>
+                        <p><p>Celebrating creativity and promoting a positive culture by spotlighting the best sides of humanity—from the lighthearted and fun to the thought-provoking and enlightening.</p>
+</p>
+                    </div>
+                </div>
+
+                <div class="row links">
+                    <div class="col-xs-12">
+                        <div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://mymodernmet.com/category/art/">Art</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="https://mymodernmet.com/category/design/">Design</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-18"><a href="https://mymodernmet.com/category/photography/">Photography</a></li>
+<li id="menu-item-43248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43248"><a href="https://mymodernmet.com/category/architecture/">Architecture</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="https://mymodernmet.com/category/diy/">DIY</a></li>
+<li id="menu-item-80047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80047"><a href="https://mymodernmet.com/category/career/">Career</a></li>
+<li id="menu-item-98603" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98603"><a href="https://mymodernmet.com/category/resources/">Resources</a></li>
+<li id="menu-item-98604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98604"><a href="https://mymodernmet.com/category/classes/">Classes</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="https://mymodernmet.com/category/environment/">Environment</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="https://mymodernmet.com/category/science/">Science</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="https://mymodernmet.com/category/technology/">Technology</a></li>
+<li id="menu-item-41618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41618"><a href="https://mymodernmet.com/category/travel/">Travel</a></li>
+<li id="menu-item-40103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40103"><a href="https://mymodernmet.store/">Store</a></li>
+</ul></div>                    </div>
+                </div>
+
+													<div class="row social-links">
+						<ul>
+							                                                                                                        <li>
+                                        <a class="facebook-share" href="https://www.facebook.com/mymodernmet/" target="_blank" rel="noreferrer nofollow" title="My Modern Met on Facebook">
+                                            <i class="fab fa-facebook"></i>
+                                        </a>
+                                    </li>
+															                                                                                                        <li>
+                                        <a class="pinterest-share" href="https://www.pinterest.com/mymodernmet/" target="_blank" rel="noreferrer nofollow" title="My Modern Met on Pinterest">
+                                            <i class="fab fa-pinterest"></i>
+                                        </a>
+                                    </li>
+															                                                                                                        <li>
+                                        <a class="twitter-share" href="https://twitter.com/mymodernmet" target="_blank" rel="noreferrer nofollow" title="My Modern Met on Twitter">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+															                                                                                                        <li>
+                                        <a class="instagram-share" href="https://www.instagram.com/mymodernmet/" target="_blank" rel="noreferrer nofollow" title="My Modern Met on Instagram">
+                                            <i class="fab fa-instagram"></i>
+                                        </a>
+                                    </li>
+															                                                                    <li class="flipboard">
+                                        <a class="flipboard-share" data-flip-widget="ico" href="https://flipboard.com/@mymodernmet?utm_campaign=tools&utm_medium=follow&action=follow">
+                                            <i class="fab fa-flipboard"></i>
+                                        </a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+                                    </li>
+															                                                                                                        <li>
+                                        <a class="tumblr-share" href="http://mymodernmet.tumblr.com/" target="_blank" rel="noreferrer nofollow" title="My Modern Met on Tumblr">
+                                            <i class="fab fa-tumblr"></i>
+                                        </a>
+                                    </li>
+															                                                                                                        <li>
+                                        <a class="youtube-share" href="https://www.youtube.com/c/MyModernMetVideos" target="_blank" rel="noreferrer nofollow" title="My Modern Met on YouTube">
+                                            <i class="fab fa-youtube"></i>
+                                        </a>
+                                    </li>
+																					</ul>
+					</div>
+				
+            </div>
+        </section>
+
+    	<!--Footer-->
+        <footer class="site-footer-bottom " rel="contentinfo">
+            <div class="container">
+
+                <div class="row last-row ">
+                    <div class="col-sm-12 col-md-3 left">
+                        &copy; 2022. All rights reserved.                    </div>
+                    <div class="col-sm-12 col-md-6 middle">
+                        <div class="menu-footer-2-container"><ul id="menu-footer-3" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://mymodernmet.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53802"><a href="https://mymodernmet.com/team/">Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://mymodernmet.com/submit-content/">Submit Content</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80018"><a href="https://mymodernmet.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138737"><a target="_blank" rel="noopener" href="https://mymodernmet.media/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80015"><a href="https://mymodernmet.com/affiliate-disclosure/">Affiliate Disclosure</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://mymodernmet.com/privacy-policy/">Privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41644"><a href="https://mymodernmet.com/terms-conditions/">Terms</a></li>
+</ul></div>                    </div>
+                    <div class="col-sm-12 col-md-3 right">
+                        Designed in collaboration with <a href="https://www.electricpulp.com" target="_blank" rel="noreferrer nofollow">Electric Pulp</a>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+
+    
+</div>
+
+<script src="/assets/js/vendor/slick.min.js" type="text/javascript"></script>
+<script src="/assets/js/bootstrap-select.min.js" type="text/javascript"></script>
+<script src="/assets/js/jquery-match-height-master/dist/jquery.matchHeight-min.js"></script>
+
+<script src="/assets/js/main.js?id=9a18c8f61485886fb42b"></script>
+
+<script>var scriptQueueData = {"scripts":{"google-invisible-recaptcha":{"is_sequenced":true,"loaded":false,"delay":2400,"deps":[],"src":"https:\/\/www.google.com\/recaptcha\/api.js?onload=renderInvisibleReCaptcha&render=explicit"},"jquery":{"loaded":true,"deps":["jquery-core"]},"jquery-core":{"loaded":true,"deps":[]},"convertkit-js":{"loaded":true,"deps":["jquery-core"]},"wpp-js":{"loaded":true,"deps":[]},"xcurrent-delay-load":{"loaded":true,"deps":[]},"xcurrent-lazy-load":{"loaded":true,"deps":[]},"optinmonster-api-script":{"loaded":true,"deps":[]},"xcurrent-script-queue":{"loaded":true,"deps":[]},"wp-embed":{"loaded":true,"deps":[]},"remote_sdk":{"loaded":true,"deps":[]}},"max_loading_queues":4,"desktop_speedup":0.75,"visited_speedup":1};</script>
+<script>var jquery_placeholder_url = 'https://mymodernmet.com/wp/wp-content/plugins/gravity-forms-placeholder-support-add-on/jquery.placeholder-1.0.1.js';</script><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - WS - Inspire A - MB - POP - FULL - SD50 -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'xbhfcregxopbiqiftuya');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - WS - Inspire A - DT - POP - FULL- SD50 -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'pj6tdrezcvkqyqqubius');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - EI - Inspire - MB - POP - FULL -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'d6ngehngzhwlwfxpofpp');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - EI - Inspire - DT - POP - FULL -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'edwk5xgi1aajyovbsjtw');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - WS - Photography - MB - POP - PART - SD50 -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'gk2ityxjoksz6useppxw');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - WS - Photography - DT - POP - PART - SD50 -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'df9mypzdmfpjygzwy68h');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - EI - Photography - MB - POP - PART -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'morfejvh0twhjc5xuqps');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: MMM - EI - Photography - DT - POP - PART -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,123324,'zru8x3th4guphhoajhou');</script>
+<!-- / OptinMonster -->		<script type="text/javascript">
+		var xbhfcregxopbiqiftuya_shortcode = true;var pj6tdrezcvkqyqqubius_shortcode = true;var d6ngehngzhwlwfxpofpp_shortcode = true;var edwk5xgi1aajyovbsjtw_shortcode = true;var gk2ityxjoksz6useppxw_shortcode = true;var df9mypzdmfpjygzwy68h_shortcode = true;var morfejvh0twhjc5xuqps_shortcode = true;var zru8x3th4guphhoajhou_shortcode = true;		</script>
+		<script type='text/javascript' id='convertkit-js-js-extra'>
+/* <![CDATA[ */
+var convertkit = {"ajaxurl":"https:\/\/mymodernmet.com\/wp\/wp-admin\/admin-ajax.php","debug":"","nonce":"595362ade2","subscriber_id":"797031570","tag":"1414514","post_id":"490316"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-content/plugins/convertkit/resources/frontend/js/convertkit.js?ver=1.9.6.3' id='convertkit-js-js'></script>
+<script type='text/javascript' id='google-invisible-recaptcha-js-before'>
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6LcSw2kUAAAAAKBtMee2Hn42fk3gkI5fAXibGSM5', 'size': 'invisible', 'badge' : 'bottomright',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+</script>
+
+<script type='text/javascript' async src='https://mymodernmet.com/wp/wp-content/plugins/xcurrent/assets/js/delay-load.js?ver=5e70e809871971c3141bbb3481ef074a' id='xcurrent-delay-load-js'></script>
+<script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-content/plugins/xcurrent/assets/js/lazy-load.js?ver=26c1e5f3242f10799dfc28083e63447c' id='xcurrent-lazy-load-js'></script>
+<script>(function(d){var s=d.createElement("script");s.type="text/javascript";s.src="https://a.omappapi.com/app/js/api.min.js";s.async=true;s.id="omapi-script";d.getElementsByTagName("head")[0].appendChild(s);})(document);</script><script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-content/plugins/xcurrent/assets/js/script-queue.js?ver=bebcad848e998ab9ae82c8431c754b8a' id='xcurrent-script-queue-js'></script>
+<script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.8.3' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-content/plugins/gravity-forms-placeholder-support-add-on/gfplaceholderaddon.js?ver=1.0' id='gf_placeholder_add_on-js'></script>
+<script type='text/javascript' defer src='https://mymodernmet.com/wp/wp-content/plugins/optinmonster/assets/js/helper.js?ver=2.6.11' id='optinmonster-wp-helper-js'></script>
+		<script type="text/javascript">var omapi_localized = {
+			ajax: 'https://mymodernmet.com/wp/wp-admin/admin-ajax.php?optin-monster-ajax-route=1',
+			nonce: '383227af9a',
+			slugs: 
+			{"xbhfcregxopbiqiftuya":{"slug":"xbhfcregxopbiqiftuya","mailpoet":false},"pj6tdrezcvkqyqqubius":{"slug":"pj6tdrezcvkqyqqubius","mailpoet":false},"d6ngehngzhwlwfxpofpp":{"slug":"d6ngehngzhwlwfxpofpp","mailpoet":false},"edwk5xgi1aajyovbsjtw":{"slug":"edwk5xgi1aajyovbsjtw","mailpoet":false},"gk2ityxjoksz6useppxw":{"slug":"gk2ityxjoksz6useppxw","mailpoet":false},"df9mypzdmfpjygzwy68h":{"slug":"df9mypzdmfpjygzwy68h","mailpoet":false},"morfejvh0twhjc5xuqps":{"slug":"morfejvh0twhjc5xuqps","mailpoet":false},"zru8x3th4guphhoajhou":{"slug":"zru8x3th4guphhoajhou","mailpoet":false}}		};</script>
+				<script type="text/javascript">var omapi_data = {"wc_cart":[],"object_id":490316,"object_key":"post","object_type":"post","term_ids":[109478,35874,67156,394543,59990]};</script>
+		<script>!function(){"use strict";!function(e){if(-1===e.cookie.indexOf("__adblocker")){e.cookie="__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";var t=new XMLHttpRequest;t.open("GET","https://www.npttech.com/advertising.js",!0),t.onreadystatechange=function(){if(XMLHttpRequest.DONE===t.readyState)if(200===t.status){var n=e.createElement("script");n.innerHTML=t.responseText,e.getElementsByTagName("head")[0].appendChild(n)}else{var a=new Date;a.setTime(a.getTime()+3e5),e.cookie="__adblocker=true; expires="+a.toUTCString()+"; path=/"}},t.send()}}(document)}();
+</script><script>!function(){"use strict";var e;e=document,function(){var t,n;function r(){var t=e.createElement("script");t.src="https://cafemedia-com.videoplayerhub.com/galleryplayer.js",e.head.appendChild(t)}function a(){var t=e.cookie.match("(^|[^;]+)\\s*__adblocker\\s*=\\s*([^;]+)");return t&&t.pop()}function c(){clearInterval(n)}return{init:function(){var e;"true"===(t=a())?r():(e=0,n=setInterval((function(){100!==e&&"false"!==t||c(),"true"===t&&(r(),c()),t=a(),e++}),50))}}}().init()}();
+</script>
+</body>
+</html>
